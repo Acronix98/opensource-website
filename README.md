@@ -1,2 +1,2 @@
 # opensource-website
-The public repository for the HI Launcher website. 
+The public repository for the Project: HIC website. 
